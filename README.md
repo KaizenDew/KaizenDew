@@ -21,6 +21,7 @@ actually done and what's still in progress, on purpose.
 > engine     Unreal Engine 5.7 — Blueprint visual scripting, level building
 > 3d         Blender — modeling & asset creation
 > tools      Python — utility scripts
+> learning   C++ — fundamentals, on the way to gameplay programming
 ```
 
 <br/>
@@ -41,6 +42,7 @@ actually done and what's still in progress, on purpose.
 <br/>
 
 - [x] publish a working tool (network monitor, Python + SQLite)
+- [ ] get comfortable with C++ fundamentals
 - [ ] ship a first playable UE5.7 prototype
 - [ ] build a small library of Blender assets
 - [ ] record a real showreel
