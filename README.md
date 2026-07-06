@@ -59,6 +59,3 @@ actually done and what's still in progress, on purpose.
 
 <br/>
 
-<div align="center">
-<sub>this readme gets rewritten as the work does — check back for the diff.</sub>
-</div>
