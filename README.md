@@ -1,10 +1,5 @@
 ![kaizen_ — learning game development](header.svg)
 
-![Unity | Learning](https://img.shields.io/badge/Unity-Learning-7C3AED?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1033)
-![C# | Basics](https://img.shields.io/badge/C%23-Basics-7C3AED?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1033)
-![Python | Used](https://img.shields.io/badge/Python-Used-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1033)
-![Blender | Low Poly](https://img.shields.io/badge/Blender-Low%20Poly-7C3AED?style=for-the-badge&logo=blender&logoColor=white&labelColor=1a1033)
-
 ```text
 改善 (kaizen) — change for the better, in small continuous steps.
 ```
@@ -39,10 +34,10 @@ I'm a beginner who is moving from Python scripts into game development with **Un
 
 ## contact
 
-[![GitHub | KaizenDew](https://img.shields.io/badge/GitHub-KaizenDew-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1033)](https://github.com/KaizenDew)
-[![LinkedIn | Connect](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1033)](https://www.linkedin.com/in/receptahaakg%C3%BCl)
-[![ArtStation | 3D Portfolio](https://img.shields.io/badge/ArtStation-3D%20Portfolio-7C3AED?style=for-the-badge&logo=artstation&logoColor=white&labelColor=1a1033)](https://www.artstation.com/kaizenn)
-[![Email | Say hello](https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1033)](mailto:hello@receptahaakgul.com)
+[![open github](https://img.shields.io/badge/%24_open-github-1a1033?style=flat-square&labelColor=7C3AED&color=1a1033)](https://github.com/KaizenDew)
+[![open linkedin](https://img.shields.io/badge/%24_open-linkedin-1a1033?style=flat-square&labelColor=7C3AED&color=1a1033)](https://www.linkedin.com/in/receptahaakg%C3%BCl)
+[![open artstation](https://img.shields.io/badge/%24_open-artstation-1a1033?style=flat-square&labelColor=7C3AED&color=1a1033)](https://www.artstation.com/kaizenn)
+[![send email](https://img.shields.io/badge/%24_send-email-1a1033?style=flat-square&labelColor=7C3AED&color=1a1033)](mailto:hello@receptahaakgul.com)
 
 ---
 
