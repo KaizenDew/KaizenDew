@@ -1,61 +1,40 @@
-<div align="center">
-  <img src="./banner (1).svg" alt="kaizen@blueprint" width="100%" />
-</div>
+# Hi, I'm KaizenDew 👋
 
-<br/>
+> **Kaizen** (改善) — Japanese for "continuous improvement". Small steps, every day.
 
-```
-改善 (kaizen) — change for the better, in small continuous steps.
-not a tagline. the actual project.
-```
+## 🌱 About Me
 
-I'm **Kaizen** — an Unreal Engine developer and 3D designer, early in the
-build. This profile is a running log, not a highlight reel: it says what's
-actually done and what's still in progress, on purpose.
+I'm a developer who is learning and building step by step. I started with Python and I'm now moving into game development with **Unity**.
 
-<br/>
+## 🎮 Currently Learning
 
-### `whoami`
+- **Unity** — taking my first steps into game development
+- **C#** — strengthening the basics for Unity
+- **Git** — getting more comfortable with version control
 
-```
-> engine     Unreal Engine 5.7 — Blueprint visual scripting, level building
-> 3d         Blender — modeling & asset creation
-> tools      Python — utility scripts
-> learning   C++ — fundamentals, on the way to gameplay programming
-```
+My first Unity project is coming soon. Stay tuned!
 
-<br/>
+## 🛠️ Skills
 
-<details>
-<summary><b>📦 projects</b> — what actually exists right now</summary>
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20(WSL)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-| status | project | notes |
-|---|---|---|
-| ✅ shipped | [`Network-Interface-Monitoring-Script`](https://github.com/KaizenDew) | Python + SQLite tool for monitoring network interfaces |
-| 🛠️ building | first Unreal Engine 5.7 project | in development — no public link yet, this row updates the moment that changes |
+## 📌 Featured Project
 
-</details>
+### [Network Interface Monitoring Script](https://github.com/KaizenDew/Network-Interface-Monitoring-Script)
 
-<details>
-<summary><b>🗺️ roadmap</b> — what doesn't exist yet, on purpose</summary>
-<br/>
+A Python script that monitors network interfaces, captures statistics such as IP address and netmask, and stores them in a SQLite database. It is customizable via command-line arguments and runs on WSL (Ubuntu).
 
-- [x] publish a working tool (network monitor, Python + SQLite)
-- [ ] get comfortable with C++ fundamentals
-- [ ] ship a first playable UE5.7 prototype
-- [ ] build a small library of Blender assets
-- [ ] record a real showreel
-- [ ] replace this roadmap with a project list nobody has to ask about
+**Tech:** Python · SQLite · WSL (Ubuntu)
 
-</details>
+## 📫 Connect
 
-<br/>
+- GitHub: [@KaizenDew](https://github.com/KaizenDew)
 
-### `contact`
+---
 
-- 🌐 [receptahaakgul.com](https://receptahaakgul.com)
-- 💻 [github.com/KaizenDew](https://github.com/KaizenDew)
-
-<br/>
-
+<sub>Always improving, one commit at a time. ✨</sub>
