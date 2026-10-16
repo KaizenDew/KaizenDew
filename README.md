@@ -1,14 +1,9 @@
-# kaizen_
+![kaizen_ — learning game development](header.svg)
 
-```text
-kaizen@unity:~$ whoami
-> KaizenDew — learning game development, one small step at a time
-```
-
-![Unity](https://img.shields.io/badge/learning-Unity-7C3AED?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1033)
-![C#](https://img.shields.io/badge/C%23-basics-7C3AED?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1033)
-![Python](https://img.shields.io/badge/Python-used-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1033)
-![Blender](https://img.shields.io/badge/Blender-low%20poly-7C3AED?style=for-the-badge&logo=blender&logoColor=white&labelColor=1a1033)
+![Unity | Learning](https://img.shields.io/badge/Unity-Learning-7C3AED?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1033)
+![C# | Basics](https://img.shields.io/badge/C%23-Basics-7C3AED?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1033)
+![Python | Used](https://img.shields.io/badge/Python-Used-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1033)
+![Blender | Low Poly](https://img.shields.io/badge/Blender-Low%20Poly-7C3AED?style=for-the-badge&logo=blender&logoColor=white&labelColor=1a1033)
 
 ```text
 改善 (kaizen) — change for the better, in small continuous steps.
