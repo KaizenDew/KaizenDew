@@ -17,6 +17,13 @@ I'm a beginner who is moving from Python scripts into game development with **Un
 > data       SQLite
 ```
 
+## stack
+
+![Unity | Learning](https://img.shields.io/badge/Unity-Learning-7C3AED?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1033)
+![C# | Basics](https://img.shields.io/badge/C%23-Basics-7C3AED?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1033)
+![Python | Used](https://img.shields.io/badge/Python-Used-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1033)
+![Blender | Low Poly](https://img.shields.io/badge/Blender-Low%20Poly-7C3AED?style=for-the-badge&logo=blender&logoColor=white&labelColor=1a1033)
+
 ## projects
 
 | status | project | notes |
