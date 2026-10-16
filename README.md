@@ -1,40 +1,51 @@
-# Hi, I'm KaizenDew 👋
+# kaizen_
 
-> **Kaizen** (改善) — Japanese for "continuous improvement". Small steps, every day.
+```text
+kaizen@unity:~$ whoami
+> KaizenDew — learning game development, one small step at a time
+```
 
-## 🌱 About Me
+![Unity](https://img.shields.io/badge/learning-Unity-7C3AED?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1033)
+![C#](https://img.shields.io/badge/C%23-basics-7C3AED?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1033)
+![Python](https://img.shields.io/badge/Python-used-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1033)
+![Blender](https://img.shields.io/badge/Blender-low%20poly-7C3AED?style=for-the-badge&logo=blender&logoColor=white&labelColor=1a1033)
 
-I'm a developer who is learning and building step by step. I started with Python and I'm now moving into game development with **Unity**.
+```text
+改善 (kaizen) — change for the better, in small continuous steps.
+```
 
-## 🎮 Currently Learning
+I'm a beginner who is moving from Python scripts into game development with **Unity**. This profile is a running log: it shows what actually exists and what is still in progress.
 
-- **Unity** — taking my first steps into game development
-- **C#** — strengthening the basics for Unity
-- **Git** — getting more comfortable with version control
+## whoami
 
-My first Unity project is coming soon. Stay tuned!
+```text
+> engine     Unity — just getting started
+> language   C# — basics, learning for Unity
+> scripting  Python — wrote a small network monitoring tool
+> 3d         Blender — low poly modeling, basic solid-color materials
+> tools      Git — the basics
+> data       SQLite
+```
 
-## 🛠️ Skills
+## projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20(WSL)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| status | project | notes |
+| :----: | ------- | ----- |
+| ✅ shipped | [Network-Interface-Monitoring-Script](https://github.com/KaizenDew/Network-Interface-Monitoring-Script) | Python + SQLite tool for monitoring network interfaces (runs on WSL / Ubuntu) |
+| 🛠️ next | first Unity project | not started yet — this row updates when it does |
 
-## 📌 Featured Project
+## roadmap
 
-### [Network Interface Monitoring Script](https://github.com/KaizenDew/Network-Interface-Monitoring-Script)
+- [x] publish a working tool (network monitor, Python + SQLite)
+- [ ] build my first Unity project
+- [ ] get more comfortable with C#
+- [ ] get more comfortable with Git
+- [ ] use my low poly Blender models inside a Unity project
 
-A Python script that monitors network interfaces, captures statistics such as IP address and netmask, and stores them in a SQLite database. It is customizable via command-line arguments and runs on WSL (Ubuntu).
+## contact
 
-**Tech:** Python · SQLite · WSL (Ubuntu)
-
-## 📫 Connect
-
-- GitHub: [@KaizenDew](https://github.com/KaizenDew)
+- 💻 [github.com/KaizenDew](https://github.com/KaizenDew)
 
 ---
 
-<sub>Always improving, one commit at a time. ✨</sub>
+<sub>not a tagline. the actual project.</sub>
