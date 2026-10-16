@@ -41,10 +41,10 @@ I'm a beginner who is moving from Python scripts into game development with **Un
 
 ## contact
 
-[![open github](https://img.shields.io/badge/%24_open-github-1a1033?style=flat-square&labelColor=7C3AED&color=1a1033)](https://github.com/KaizenDew)
-[![open linkedin](https://img.shields.io/badge/%24_open-linkedin-1a1033?style=flat-square&labelColor=7C3AED&color=1a1033)](https://www.linkedin.com/in/receptahaakg%C3%BCl)
-[![open artstation](https://img.shields.io/badge/%24_open-artstation-1a1033?style=flat-square&labelColor=7C3AED&color=1a1033)](https://www.artstation.com/kaizenn)
-[![send email](https://img.shields.io/badge/%24_send-email-1a1033?style=flat-square&labelColor=7C3AED&color=1a1033)](mailto:hello@receptahaakgul.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge)](https://github.com/KaizenDew)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/receptahaakg%C3%BCl)
+[![ArtStation](https://img.shields.io/badge/ARTSTATION-7C3AED?style=for-the-badge)](https://www.artstation.com/kaizenn)
+[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge)](mailto:hello@receptahaakgul.com)
 
 ---
 
