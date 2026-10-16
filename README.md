@@ -41,10 +41,8 @@ I'm a beginner who is moving from Python scripts into game development with **Un
 
 ## contact
 
-[![GitHub](https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge)](https://github.com/KaizenDew)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/receptahaakg%C3%BCl)
-[![ArtStation](https://img.shields.io/badge/ARTSTATION-7C3AED?style=for-the-badge)](https://www.artstation.com/kaizenn)
-[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge)](mailto:hello@receptahaakgul.com)
+| <a href="https://github.com/KaizenDew"><img src="https://cdn.simpleicons.org/github/a78bfa" height="18" align="absmiddle" alt=""> <b>GitHub</b></a> | <a href="https://www.linkedin.com/in/receptahaakg%C3%BCl"><img src="https://skillicons.dev/icons?i=linkedin" height="18" align="absmiddle" alt=""> <b>LinkedIn</b></a> | <a href="https://www.artstation.com/kaizenn"><img src="https://cdn.simpleicons.org/artstation/a78bfa" height="18" align="absmiddle" alt=""> <b>ArtStation</b></a> | <a href="mailto:hello@receptahaakgul.com">✉️ <b>Email</b></a> |
+| :---: | :---: | :---: | :---: |
 
 ---
 
