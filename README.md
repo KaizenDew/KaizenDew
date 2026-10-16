@@ -39,7 +39,10 @@ I'm a beginner who is moving from Python scripts into game development with **Un
 
 ## contact
 
-- 💻 [github.com/KaizenDew](https://github.com/KaizenDew)
+[![GitHub | KaizenDew](https://img.shields.io/badge/GitHub-KaizenDew-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1033)](https://github.com/KaizenDew)
+[![LinkedIn | Connect](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1033)](https://www.linkedin.com/in/receptahaakg%C3%BCl)
+[![ArtStation | 3D Portfolio](https://img.shields.io/badge/ArtStation-3D%20Portfolio-7C3AED?style=for-the-badge&logo=artstation&logoColor=white&labelColor=1a1033)](https://www.artstation.com/kaizenn)
+[![Email | Say hello](https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1033)](mailto:hello@receptahaakgul.com)
 
 ---
 
