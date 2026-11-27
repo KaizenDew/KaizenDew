@@ -1,44 +1,33 @@
-# Hi, I'm Kaizen
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="kaizen — I build tools, apps and AI assistants" src="assets/header-light.svg" width="100%">
+</picture>
 
 Software developer. I mostly write Python, C# and TypeScript, and I like building tools I actually use every day: a voice-controlled desktop assistant, running apps, and the plumbing that lets AI coding agents remember what they did yesterday.
 
 改善 (*kaizen*) means "change for the better". That's the whole workflow: small steps, each one checked before the next.
 
-## What I'm working on
-
-- **Mira**: a Turkish-speaking AI assistant for the Windows desktop. Tool calling, voice output, screen reading, and a lot of work on making tools fail safely.
-- **StreakRun** and **RITM**: running apps built with Expo and React Native. Local-first GPS tracking, streaks and coached interval runs.
-- **Beynim**: a Git-synced Markdown memory shared between Claude Code and Codex, so decisions and context survive across sessions and devices.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 ## Projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| Mira | Desktop AI assistant for Windows: voice, screen reading, 55 tools (windows, files, clipboard, Spotify, reminders) | Python, FastAPI, WebSocket, React, SQLite |
-| StreakRun | Local-first Android running app with streaks, XP and rest days that don't break your streak | Expo, React Native, TypeScript, SQLite, MapLibre |
-| RITM | Coached interval runs with optional Turkish voice cues, Health Connect / HealthKit | Expo, React Native, TypeScript |
-| Beynim | Source-linked, Git-synced memory for AI coding agents | Python, Markdown, Git |
-| [Network-Interface-Monitoring-Script](https://github.com/KaizenDew/Network-Interface-Monitoring-Script) | Logs network interface stats (IP, netmask) into SQLite. Runs on WSL / Ubuntu | Python, SQLite |
+| Project | What it is | Status |
+| --- | --- | :---: |
+| **Mira** | Turkish-speaking desktop AI assistant for Windows: voice, screen reading, 55 tools (windows, files, clipboard, Spotify, reminders).<br>`Python` `FastAPI` `React` `SQLite` | ![active](https://img.shields.io/badge/-active-2ea043?style=flat-square) |
+| **StreakRun** | Local-first Android running app with streaks, XP and rest days that don't break your streak.<br>`Expo` `React Native` `TypeScript` `MapLibre` | ![active](https://img.shields.io/badge/-active-2ea043?style=flat-square) |
+| **RITM** | Coached interval runs with optional Turkish voice cues, Health Connect / HealthKit.<br>`Expo` `React Native` `TypeScript` | ![active](https://img.shields.io/badge/-active-2ea043?style=flat-square) |
+| **Beynim** | Source-linked, Git-synced memory shared between Claude Code and Codex.<br>`Python` `Markdown` `Git` | ![active](https://img.shields.io/badge/-active-2ea043?style=flat-square) |
+| [**Network Interface Monitor**](https://github.com/KaizenDew/Network-Interface-Monitoring-Script) | Logs network interface stats (IP, netmask) into SQLite. Runs on WSL / Ubuntu.<br>`Python` `SQLite` | ![public](https://img.shields.io/badge/-public-0969da?style=flat-square) |
 
-Only the network monitor is public for now. The rest live in private repositories.
-
-## Tech
-
-| | |
-| --- | --- |
-| Languages | Python, C#, TypeScript, SQL |
-| Backend | FastAPI, ASP.NET Core (.NET 10), EF Core |
-| Frontend | React, Vite |
-| Mobile | React Native, Expo |
-| Databases | SQLite, PostgreSQL |
-| AI | LLM tool calling, TTS / voice, local image generation (ComfyUI, FLUX) |
-| Tools | Git, Claude Code, Codex, Blender |
+<sub>Only the network monitor is public for now. The rest live in private repositories.</sub>
 
 ## How I work
 
-- Small commits, tests before moving on, no "it should work".
-- Local-first: data stays on the device unless it has to leave.
-- AI agents are collaborators, not autopilot. They get written rules and shared memory, and I review what they ship.
+> **Small steps.** One change at a time, verified before the next.
+>
+> **Local first.** Data stays on the device unless it has to leave.
+>
+> **AI as a collaborator, not autopilot.** Agents get written rules and shared memory, and I review what they ship.
 
 ## Contact
 
